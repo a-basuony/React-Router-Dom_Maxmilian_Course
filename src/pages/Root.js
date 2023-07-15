@@ -6,7 +6,6 @@ function RootLayout() {
   return (
       <>
           <MainNavigation />
-          {/* Add your routes here */}
           <main>
               <Outlet/>
           </main>
