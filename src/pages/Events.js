@@ -26,7 +26,7 @@ const events = [
 ];
 
 function EventsPage() {
-  // const { eventsId } = useParams();
+  
   return (
     <>
       <ul>
